@@ -1,3 +1,3 @@
-# Dice Simulator
+# Dice Game
 
-A C# program to simulate the rolling of die.
+A C# 2-player dice game, simulating the rolling of die. The game consists of 2 rounds, and whoever rolls higher overall wins.
